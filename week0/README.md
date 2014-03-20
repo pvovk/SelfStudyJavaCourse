@@ -19,4 +19,4 @@
 7. Initiate, review and send a pull-request
 8. Wait until the pull-request is reviewed. It could be either closed or merged, in other terms: rejected or accepted. In any case take into account all comments if those were done.
 9. If the pull-request was closed (rejected) carefully read our comments, fix issues and go back to the step 6.
-10. If the pull-request was merged (accepted), our congratulations, you've just finished the lesson. Go forward to the next one.
+10. If the pull-request was merged (accepted), our congratulations, you've just finished the lesson. Move forward to the next one.
