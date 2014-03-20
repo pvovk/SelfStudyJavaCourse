@@ -8,7 +8,7 @@
 4. Learn how to fork repositories - https://help.github.com/articles/fork-a-repo
 5. Learn how to work with pull-requests - https://help.github.com/articles/using-pull-requests
 
-### To start doing the lesson please follow the instructions below:
+### To start the lesson please follow the instructions below:
 
 1. Fork this repository to your GitHub account
 2. Clone your fork to your local environment
