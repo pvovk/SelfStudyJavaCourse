@@ -12,8 +12,8 @@
 
 1. Fork this repository to your GitHub account
 2. Clone your fork to your local environment
-3. When the repository is cloned, go to the following path - week0/workplace
-4. Create there a folder in the following format - name.surname
+3. When the repository is cloned, go to the following path - `week0/workplace`
+4. Create there a folder in the following format - `name.surname`
 5. Under the folder you've created create an empty text file with any name
 6. Commit the file and push the changes
 7. Initiate, review and send a pull-request
